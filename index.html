@@ -4,15 +4,36 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	<title>SysInfoApp</title>
+<style>
+	body {
+		background-color: black;
+		color: white;
+	}
+	h1.pt-3 {
+		-webkit-app-region: drag;
+	}
+	::-webkit-scrollbar {
+		display: none;
+	}
+	a {
+		cursor:pointer;
+    	text-decoration:underline;
+	}
+</style>
 </head>
 <body>
 	<div class="container">
-		<h1 class="pt-3">System Monitor</h1>
+		<h1 class="pt-3">System Monitor</h1><a id="exit">Close Window</a>
 		<div id="output"></div>
 	</div>
 
 </body>
 <script>
+	const exitBtn = document.getElementById('exit')
+	exitBtn.onclick = e => {
+    window.close()
+}
+
 	console.log(process)
 
 	let output =  `
