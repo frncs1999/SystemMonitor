@@ -15,8 +15,6 @@
       npm start
  ## Screenshots:
  ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_1.png)
- --------------------------------------------------------------------
  ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_2.png)
- --------------------------------------------------------------------
  ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_3.png)
 
