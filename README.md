@@ -14,7 +14,7 @@
    #### Run the app
       npm start
  ## Screenshots:
- ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_1.png)
- ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_2.png)
- ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_3.png)
+ ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_01.png)
+ ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_02.png)
+ ![](https://github.com/frncs1999/SystemMonitor/blob/master/ss_03.png)
 
